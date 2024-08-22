@@ -27,4 +27,4 @@ LinkedIn: <a href="www.linkedin.com/in/pavel-olshansky">www.linkedin.com/in/pave
 
 Looking forward to connecting with you!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelo8501&layout=compact)](https://github.com/pavelo8501)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelo8501&layout=compact)](https://github.com/pavelo8501) -->
