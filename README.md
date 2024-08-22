@@ -26,3 +26,5 @@ Email: <a href="pavelo8501@gmail.com">pavelo8501@gmail.com</a></br>
 LinkedIn: <a href="www.linkedin.com/in/pavel-olshansky">www.linkedin.com/in/pavel-olshansky</a>
 
 Looking forward to connecting with you!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelo8501&layout=compact)](https://github.com/pavelo8501)
