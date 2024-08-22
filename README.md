@@ -21,6 +21,6 @@ I believe in writing clean, efficient, and self explanatory code that not only w
 I am currently open to new job opportunities and am excited to explore roles where I can contribute my skills and experience as a Full Stack Developer. If you have a position or project that you think might be a good fit, or if you'd like to discuss potential collaborations, please don't hesitate to reach out.
 
 Email: <a href="pavelo8501@gmail.com">pavelo8501@gmail.com</a>
-LinkedIn: <a href="www.linkedin.com/in/pavel-olshansky">www.linkedin.com/in/pavel-olshansky</a>
+<span>LinkedIn: <a href="www.linkedin.com/in/pavel-olshansky">www.linkedin.com/in/pavel-olshansky</a></span>
 
 Looking forward to connecting with you!
