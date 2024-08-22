@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/2e902f91-b162-4fe0-888c-103882a00243" alt="my banner"/>
+
 ## Hi there!
 I'm a passionate Full Stack Developer with a strong focus on creating dynamic, scalable, and user-friendly applications. My expertise spans across both front-end and back-end development, allowing me to deliver well-rounded solutions tailored to meet the needs of modern web and mobile applications.
 
